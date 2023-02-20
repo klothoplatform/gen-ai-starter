@@ -13,7 +13,7 @@
 [![govulncheck](https://github.com/CloudCompilers/klotho/actions/workflows/govulncheck.yaml/badge.svg)](https://github.com/CloudCompilers/klotho/actions/workflows/govulncheck.yaml)
 [![release badge](https://github.com/klothoplatform/klotho/actions/workflows/release.yaml/badge.svg)](https://github.com/klothoplatform/klotho/actions/workflows/release.yaml)
 
-# Early Access
+## Early Access
 This is an early-access repo - for access please [sign up on our web site](https://klo.dev/genai-apis-on-aws-under-5-minutes/). 
 
 ## Repo
